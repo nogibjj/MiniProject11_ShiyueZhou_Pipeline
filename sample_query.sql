@@ -1,0 +1,1 @@
+SELECT * FROM grade_student_delta

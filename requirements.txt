@@ -15,5 +15,7 @@ pandas
 python-dotenv
 databricks-sql-connector
 matplotlib
+delta
+pyspark
 
 
