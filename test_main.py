@@ -3,8 +3,8 @@ Test goes here
 
 """
 
-from mylib.calculator import add
+from mylib.extract import extract
 
 
-def test_add():
-    assert add(1, 2) == 3
+def test_extract():
+    assert extract() == "data/grad-students.csv"
